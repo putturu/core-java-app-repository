@@ -1,0 +1,19 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/putturu/core-java-app-repository.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "project1"]
+	remote = origin
+	merge = refs/heads/project1
+[branch "project2"]
+	remote = origin
+	merge = refs/heads/project2
+[branch "project3"]
+	remote = origin
+	merge = refs/heads/project3

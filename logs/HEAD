@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 95de8e4b98621ba318a407fce19dc9c06a7068fb PUTTURU NAGARAJU <putnagar@publicisgroupe.net> 1646287263 +0530	checkout: moving from master to project1
+95de8e4b98621ba318a407fce19dc9c06a7068fb 053e5d5f54d995bd012e3f20d695e275319da5bd PUTTURU NAGARAJU <putnagar@publicisgroupe.net> 1646287295 +0530	commit: first commit
+053e5d5f54d995bd012e3f20d695e275319da5bd 95de8e4b98621ba318a407fce19dc9c06a7068fb PUTTURU NAGARAJU <putnagar@publicisgroupe.net> 1646288083 +0530	checkout: moving from project1 to project2
+95de8e4b98621ba318a407fce19dc9c06a7068fb eb10f1bffbae7b81b9faba6f575e8ce3bed0a8c1 PUTTURU NAGARAJU <putnagar@publicisgroupe.net> 1646288330 +0530	commit: first commit1
+eb10f1bffbae7b81b9faba6f575e8ce3bed0a8c1 053e5d5f54d995bd012e3f20d695e275319da5bd PUTTURU NAGARAJU <putnagar@publicisgroupe.net> 1646293388 +0530	checkout: moving from project2 to project3
