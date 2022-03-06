@@ -4,6 +4,7 @@ import com.sapient.aem.service.MyThread;
 
 public class MyThreadDemo {
 	public static void main(String[] args) {
+		System.out.println(System.currentTimeMillis());
 		System.out.println(Thread.currentThread());
 		Thread t1= new MyThread("worker-1");
 		t1.start();//invokes run() method
